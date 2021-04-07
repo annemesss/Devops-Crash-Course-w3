@@ -1,2 +1,2 @@
-# Devops-Crash-Course-w3
+# Devops-Crash-Course-week2
 nginx config: redirect, proxy_pass, status code, basic auth, load balancing.
